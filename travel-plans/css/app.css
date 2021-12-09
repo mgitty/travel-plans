@@ -51,6 +51,11 @@ h2 {
     text-shadow: 0 0 5px #2b13b3;
 }
 
+#header {
+    border-color: midnightblue;
+    color: mediumvioletred
+}
+
 #panama {
     background-color: #4dd0e1;
     size: 12px;
