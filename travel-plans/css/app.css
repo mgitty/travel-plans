@@ -53,12 +53,14 @@ h2 {
 
 #header {
     border-color: midnightblue;
-    color: mediumvioletred
+    background-color:paleturquoise;
+    color: mediumvioletred;
 }
 
 #panama {
     background-color: #4dd0e1;
     size: 12px;
+    color:palegreen
 }
 
 #italy {
