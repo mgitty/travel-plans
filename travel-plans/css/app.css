@@ -48,7 +48,7 @@ h2 {
     margin: 0;
     transform: rotate(-45deg);
     transition: transform 0.5s;
-    text-shadow: 0 0 5px #01579b;
+    text-shadow: 0 0 5px #2b13b3;
 }
 
 #panama {
@@ -74,5 +74,15 @@ h2 {
 #hawai {
     background-color: yellow;
     size: 12px;
+}
+
+#newyork {
+    background-color:salmon;
+    size: 12px;
+}
+
+#switzerland {
+    background-color:tomato;
+    size: 12px
 }
 
