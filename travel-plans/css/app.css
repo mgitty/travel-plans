@@ -60,9 +60,12 @@ h2 {
 }
 
 #panama {
+    background-color:#4dd0e1; 
+    size: 12px;
+}
+#panama {
     background-color: #4dd0e1;
     size: 12px;
-    color:palegreen
 }
 
 #italy {
@@ -97,6 +100,11 @@ h2 {
 
 #egypt {
     background-color:mediumvioletred;
+    size: 12px;
+}
+
+#testother {
+    background-color: blue;
     size: 12px;
 }
 
